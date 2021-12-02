@@ -16,74 +16,89 @@ CIT Major at Brigham Young University - Idaho
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`Expected 2022`
+__Brigham Young University – Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- CIT Major BS Degree
+- 3.9 Cumulative GPA
+- Senior with anticipated graduation date Dec. 2022
+- Programming: Python, JavaScript, HTML, CSS
+- Operational systems: Windows and Linux 
+- Database: MySQL
+- Networking: routers, adapters, cables
+- Cybersecurity (taking Fall 2021)
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+`2017-2018`
+__Idaho State University__, Pocatello, ID
 
-- 4.0 Major GPA
+- AAS Energy Systems Instrumentation Engineering Technology
+-	3.7 Cumulative GPA
+-	NASA STEM Scholarship Recipient
+-	ISCET Electronic Associate Level 1 and Level 4 Certificates
+-	Program logic controllers (PLCs)
+-	Build motor control systems
+-	Calibrate equipment
+-	Tune process control loops
+-	Automated systems
+-	Designed circuits with PLCs
+-	Measure Flow
 
+`2016-2017`
+__Eastern Idaho Technical College__, Idaho Falls, ID
 
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+- ESTEC Program Certificate
+-   3.7 cumulative GPA
+-	Learned how to build, operate and troubleshoot circuits
+-	Learned how to program circuits with PLCs
+-	Designed circuits
+-	Worked on team projects
+-	EITC Foundation Scholarship Recipient
+-	NASA STEM Scholarship Recipient
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`August 2018 to April 2021`
+__University of Utah__, Salt Lake City, UT
 
+- Electronic Technician: installed, fixed, and maintained water, gas and power metering systems throughout campus and medical center. 
+- Repaired wiring, AquiSuites, networking, and cables.
+- Coordinated projects with other departments on campus.
+- Adhered to all PPE, chemical and equipment safety trainings and standards.
+- Prioritized work orders and worked independently to accomplish daily, weekly and monthly tasks.
 
-`2023-2025`
-__Service Missionary__, South Africa
+`April 2016 to August 2016`			
+__Madison School District__, Rexburg, ID
+- Custodian:  Operated custodial equipment for cleaning.
+- Painter:  Used painting tools to prep and clean surfaces for painting.
 
+`December 2015 to January 2016`		
+__BYU-Idaho Housing__, Rexburg, ID
+
+- Custodian:  Worked on a fast-paced team and with a variety of chemical products to clean student apartments.
+
+`September 2015 to August 2017`		
+__Rehab Services of Idaho__, Rexburg, ID
+
+- Custodian:  Operated variety of equipment to clean rehab center and front office area.
+
+`February 2011 to May 2013`			
+__Wingers Restaurant__, Rexburg, ID
+- Dishwasher/Kitchen Assistant:  Operated dishwashers and ovens as a fast-paced team member.
+
+## LEADERSHIP  EXPERIENCE
+
+`June 2013 to June 2015`
+__Service Missionary__, Illinois Chicago West
+
+`August 2012-May 2013`
+__MHS National Honor Society Executive Board Member__
+
+`December 2009`
+__Eagle Scout Award__  
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2021 -->
 
 
